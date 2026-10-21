@@ -5,10 +5,10 @@
 {
     "name": "Sale Stock Delivery State",
     "summary": "Change the way to compute the delivery state",
-    "version": "19.0.1.0.0",
+    "version": "20.0.1.0.0",
     "development_status": "Alpha",
     "category": "Uncategorized",
-    "website": "https://github.com/OCA/sale-workflow",
+    "website": "https://github.com/OCA/sale-stock-workflow",
     "author": " Akretion,Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "external_dependencies": {
