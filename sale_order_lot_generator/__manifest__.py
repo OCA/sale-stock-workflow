@@ -4,7 +4,7 @@
     "name": "Sale Order Lot Generator",
     "version": "20.0.1.0.0",
     "author": "Akretion, Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/sale-workflow",
+    "website": "https://github.com/OCA/sale-stock-workflow",
     "license": "AGPL-3",
     "category": "Sale",
     "depends": ["sale_order_lot_selection"],
