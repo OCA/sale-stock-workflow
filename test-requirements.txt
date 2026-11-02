@@ -1,0 +1,2 @@
+odoo-addon-sale_order_lot_selection @ git+https://github.com/OCA/sale-stock-workflow.git@refs/pull/2/head#subdirectory=sale_order_lot_selection
+odoo-addon-stock_restrict_lot @ git+https://github.com/OCA/stock-logistics-workflow.git@refs/pull/2491/head#subdirectory=stock_restrict_lot
