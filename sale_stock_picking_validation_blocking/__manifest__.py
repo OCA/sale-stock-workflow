@@ -7,7 +7,7 @@
     "version": "20.0.1.0.0",
     "license": "AGPL-3",
     "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/sale-workflow",
+    "website": "https://github.com/OCA/sale-stock-workflow",
     "depends": ["sale_stock"],
     "data": ["views/sale_order.xml", "views/stock_picking.xml"],
 }
