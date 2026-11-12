@@ -7,7 +7,7 @@
     "summary": "Add picking note in sale and purchase order",
     "version": "19.0.1.0.1",
     "category": "Sales",
-    "website": "https://github.com/OCA/sale-workflow",
+    "website": "https://github.com/OCA/sale-stock-workflow",
     "author": "Tecnativa, Odoo Community Association (OCA)",
     "maintainers": ["carlosdauden", "victoralmau", "chienandalu", "EmilioPascual"],
     "license": "AGPL-3",
