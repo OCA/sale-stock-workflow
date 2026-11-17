@@ -8,7 +8,7 @@
     "summary": (
         "Base module for definition of stock references creation rules for Sale order"
     ),
-    "version": "19.0.1.0.1",
+    "version": "20.0.1.0.0",
     "author": (
         "Camptocamp,"
         "ForgeFlow,"
@@ -19,7 +19,7 @@
     "category": "Warehouse",
     "license": "AGPL-3",
     "development_status": "Production/Stable",
-    "website": "https://github.com/OCA/sale-workflow",
+    "website": "https://github.com/OCA/sale-stock-workflow",
     "depends": ["sale_stock"],
     "installable": True,
 }
